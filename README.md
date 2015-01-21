@@ -1,5 +1,7 @@
 ﻿Visual Studio Automation
 ========================
 
-FriendlyでVisualStudio2013を操作するサンプルです。
+VisualStudio2013のアプリケーションドライバのサンプル
+
+Frienldyを使って操作しています。
 
